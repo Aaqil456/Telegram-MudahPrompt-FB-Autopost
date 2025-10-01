@@ -1,1 +1,107 @@
-
+[
+  {
+    "telegram_id": 5662,
+    "original_text": "Thinking Machines announced Tinker, a fine tuning API for LLMs, in private beta. \n\n“Write training loops in Python on your laptop; we'll run them on distributed GPUs.”\n\nTinker Machines 🤖",
+    "translated_caption": "TERKINI: Thinking Machines baru je umumkan Tinker, API untuk fine-tuning LLM, tapi masih dalam beta tertutup lagi. Konsepnya, korang boleh tulis training loops dalam Python kat laptop sendiri, lepas tu diorang akan jalankan kat GPU yang tersebar. Menarik kan? 🤖",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:48:10"
+  },
+  {
+    "telegram_id": 5661,
+    "original_text": "Claude is now available on Slack! This is a massive feature for all enterprises who use Slack for internal communication. \n\nExample, today I’ve spent 4+ hours on Slack threads and DMs. I wish Claude would be there to argue for me instead. \n\nNew coworker 👀",
+    "translated_caption": "TERKINI: Wah, Claude dah boleh guna kat Slack sekarang! Ni memang bagus sangat untuk semua syarikat yang guna Slack untuk komunikasi dalaman. Macam hari ni, aku dah habiskan lebih 4 jam kat Slack threads dan DM. Kalaulah Claude ada kat situ, boleh tolong aku berhujah ke, kan best. Haha, macam ada rakan sekerja baru pulak! 👀",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:48:34"
+  },
+  {
+    "telegram_id": 5660,
+    "original_text": "[**Microsoft works on Copilot Connectors, Coco mode and Email Assistant](https://www.testingcatalog.com/microsoft-works-on-copilot-connectors-coco-mode-and-email-assistant/)**\n\nMicrosoft is preparing broader third-party integrations for Copilot, including connectors for Google and Outlook services, aiming to centralize cloud data access and elevate Copilot into a comprehensive productivity hub for users.\n\n🗞 #microsoftcopilot",
+    "translated_caption": "TERKINI: Microsoft tengah usahakan Copilot Connectors, Coco mode, dan Email Assistant rupanya! Nampaknya diorang nak bagi Copilot ni boleh sambung dengan macam-macam aplikasi lain, termasuk servis Google dan Outlook. Kiranya, nak bagi Copilot ni jadi pusat sehenti yang memudahkan kita semua buat kerja lah.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:48:37"
+  },
+  {
+    "telegram_id": 5659,
+    "original_text": "[**Anthropic works on customizable Skills for Claude](https://www.testingcatalog.com/anthropic-works-on-customizable-skills-for-claude/)**\n\nAnthropic is testing a new “Skills” feature in Claude, allowing users to upload custom instructions for repeatable tasks using .skill files or folders. This aims to give developers and power users more control over outputs and task automation.\n\n🗞 #claude",
+    "translated_caption": "TERKINI: Anthropic tengah usahakan ciri baru \"Skills\" untuk Claude tau! Boleh guna fail atau folder untuk masukkan arahan sendiri supaya Claude boleh buat kerja yang sama berulang kali. Macam bagi kuasa lebih sikit kat pemaju dan pengguna tegar untuk kawal hasil dan automatikkan tugas. Senang cerita gitu lah! 😉",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:48:43"
+  },
+  {
+    "telegram_id": 5658,
+    "original_text": "Anthropic is working on Skills. The button will allow users to upload a SKILL dot md file or a Zip archive.\n\n\"Skills are repeatable and customizable instructions that Claude can follow in any chat. Try the ones below or create and add your own.\"\n\nA new SKILL standard soon? 👀",
+    "translated_caption": "TERKINI: Anthropic tengah usahakan Skills. Nanti ada butang untuk muat naik fail SKILL yang berekstensi \".md\" atau fail zip. Katanya, \"Skills ni macam arahan yang boleh diulang dan diubahsuai, jadi Claude boleh ikut dalam mana-mana perbualan. Boleh cuba yang dah ada atau buat sendiri.\" Nampaknya macam nak ada standard SKILL yang baru tak lama lagi? 👀",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:48:50"
+  },
+  {
+    "telegram_id": 5657,
+    "original_text": "[**OpenAI releases Sora 2 with a new iOS app in US and Canada](https://www.testingcatalog.com/openai-releases-sora-2-and-new-ios-app/)**\n\nOpenAI has launched Sora 2, Sora 2 Pro, and an invite-only Sora iOS app in the U.S. and Canada, introducing features like native audio, tighter physics, and likeness-based content creation with parental and creator controls.\n\n🗞 #sora",
+    "translated_caption": "TERKINI: OpenAI dah keluarkan Sora 2 dengan app iOS baru kat US dan Kanada tau! Ada macam-macam ciri best pulak tu, contohnya audio, fizik yang lebih mantap, dan boleh buat content berdasarkan rupa paras dengan kawalan untuk ibu bapa dan pembuat content. Gempak!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:48:56"
+  },
+  {
+    "telegram_id": 5655,
+    "original_text": "Are you ready to start Sora 2 invites chain? 👀\n\nI will share 1 Sora invite code with a 1st person in a chain via DMs. The person will have to repeat the process with the next person on the list. Since there are several chains ongoing, follow the conversation on the chat to get in https://t.me/+UG9lOEE7R6vV9JRY\n\nPlease make sure you have VPN ready if you are not from US or Canada and try to share more than 1 invite back to the group if you can 🙏",
+    "translated_caption": "TERKINI: Agak-agak korang dah ready nak join rantai undangan Sora 2? 👀 Aku akan bagi satu kod undangan Sora kepada orang pertama dalam rantai ni melalui DM. Orang tu pulak kena ulang proses yang sama dengan orang seterusnya dalam senarai. Sebab ada beberapa rantai yang tengah berjalan, ikut perbualan dalam grup tu untuk masuk. Pastikan korang dah sedia VPN kalau bukan dari US atau Kanada, dan cuba kongsi lebih daripada satu undangan balik ke grup kalau boleh ya 🙏",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:49:01"
+  },
+  {
+    "telegram_id": 5654,
+    "original_text": "Jules SWE agent now has memory! 🤖",
+    "translated_caption": "TERKINI: Alamak, agen Jules SWE sekarang dah ada memori! Macam robot betullah dia. 🤖",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:49:08"
+  },
+  {
+    "telegram_id": 5652,
+    "original_text": "Nothing is real 👀\n\n\"You’re entering an AI-generated world. Faces may be familiar, but nothing is real.\"",
+    "translated_caption": "TERKINI: Hmm, rasa macam tak ada apa pun yang betul-betul nyata kan? Macam kita masuk dunia yang dijana oleh AI. Muka-muka mungkin nampak macam kenal, tapi sebenarnya semua ni tak real pun. 🤔",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:50:57"
+  },
+  {
+    "telegram_id": 5651,
+    "original_text": "BREAKING 🚨: OpenAI is launching Sora 2, Sora 2 Pro and Sora app in US and Canada! \n\nExpansion to other countries is expected to follow. \n\nSoon 👀",
+    "translated_caption": "TERKINI: OpenAI nak lancarkan Sora 2, Sora 2 Pro, dan aplikasi Sora di US dan Kanada! Dijangka lepas ni akan ada di negara-negara lain pulak. Kejap je lagi nampak gayanya! 😉",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:52:08"
+  },
+  {
+    "telegram_id": 5649,
+    "original_text": "A new Sora app is landing on iOS and it will be invite only. Also likely that it will be restricted to certain regions.",
+    "translated_caption": "TERKINI: Ada aplikasi Sora baru nak keluar kat iOS, tapi dengar cerita kena ada jemputan baru boleh guna. Kemungkinan juga tak semua tempat dapat akses nanti.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:52:14"
+  },
+  {
+    "telegram_id": 5647,
+    "original_text": "BREAKING 🚨: Sora 2 with audio support is about to be announced soon! \n\nPro or Plus? 👀",
+    "translated_caption": "TERKINI: Dengar cerita, Sora 2 dengan sokongan audio bakal diumumkan tak lama lagi! Agak-agak, versi Pro atau Plus yang keluar dulu? 🤔",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:52:21"
+  },
+  {
+    "telegram_id": 5646,
+    "original_text": "[**Google develops Infographics tool for NotebookLM](https://www.testingcatalog.com/google-develops-infographics-tool-for-notebooklm/)**\n\nGoogle is developing an “Infographics” feature for NotebookLM, aiming to convert complex notes into visual summaries. Early details suggest basic customization, with broader capabilities potentially arriving in future updates.\n\n🗞 #notebooklm",
+    "translated_caption": "TERKINI: Google tengah buat satu alat \"Infografik\" untuk NotebookLM! Macam nak tukar nota-nota yang complicated jadi ringkasan visual. Dengar cerita boleh customize sikit-sikit je dulu, tapi mungkin ada lagi yang best akan datang nanti. 😉",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:52:25"
+  },
+  {
+    "telegram_id": 5645,
+    "original_text": "Z AI is preparing to release GLM 4.6 🤖\n\n\"As the latest iteration in the GLM series, GLM-4.6 achieves comprehensive enhancements across multiple domains, including real-world coding, long-context processing, reasoning, searching, writing, and agentic applications.\"",
+    "translated_caption": "TERKINI: Z AI tengah bersiap sedia nak keluarkan GLM 4.6 🤖 Katanya versi terbaru dalam siri GLM ni, GLM-4.6 ada peningkatan yang menyeluruh dalam pelbagai bidang, termasuk coding dunia sebenar, pemprosesan konteks panjang, penaakulan, pencarian, penulisan, dan aplikasi keagenan. Mantap!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:52:33"
+  },
+  {
+    "telegram_id": 5643,
+    "original_text": "Files selector is rolling out on Jules Agent by Google 👀",
+    "translated_caption": "TERKINI: Nampaknya Google sedang memperkenalkan pemilih fail dalam Jules Agent mereka, menarik ni! 👀",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-01 18:52:41"
+  }
+]
