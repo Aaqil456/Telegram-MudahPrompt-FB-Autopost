@@ -215,5 +215,12 @@
     "translated_caption": "Ha, Perplexity Notes? Macam menarik je... ada apa-apa yang menarik ke kat sana? 🤔",
     "fb_status": "Posted",
     "date_posted": "2025-10-02 13:59:35"
+  },
+  {
+    "telegram_id": 5683,
+    "original_text": "Google released Nano Banana model in GA (non-preview) with support for a broader range of different aspect ratios. Already available on AI Studio. \n\nSupported ratios include:\n- Landscape: 21:9, 16:9, 4:3, 3:2\n- Square: 1:1\n- Portrait: 9:16, 3:4, 2:3\n- Flexible: 5:4, 4:5",
+    "translated_caption": "TERKINI: Google dah keluarkan model Nano Banana versi penuh (bukan percubaan lagi!) dan dia sekarang sokong macam-macam nisbah aspek gambar tau. Dah ada pun kat AI Studio. Nisbah yang disokong termasuklah: pemandangan (21:9, 16:9, 4:3, 3:2), segi empat sama (1:1), potret (9:16, 3:4, 2:3), dan fleksibel (5:4, 4:5). Mantap!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-02 16:28:25"
   }
 ]
