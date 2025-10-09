@@ -747,5 +747,19 @@
     "translated_caption": "Fuh, bestlah! Browser Dia sekarang ada fungsi cari memori. Oh ya, kalau korang terlepas, Dia dah boleh guna untuk semua pengguna macOS tanpa perlu jemputan pun! Senang betul sekarang.",
     "fb_status": "Posted",
     "date_posted": "2025-10-09 20:00:46"
+  },
+  {
+    "telegram_id": 5764,
+    "original_text": "[**Anthropic launches Plugin support for Claude Code beta](https://www.testingcatalog.com/anthropic-launches-plugin-support-for-claude-code-beta/)**\n\nAnthropic introduces plugin support for Claude Code, letting developers create, share, and install modular tools like slash commands and subagents via a unified system with marketplace integration, targeting streamlined team workflows.\n\n🗞 #ai",
+    "translated_caption": "TERKINI: Anthropic dah lancarkan sokongan Plugin untuk Claude Code beta! Kira macam bagi developers buat, kongsi, dan pasang tools modular macam slash command dan subagent guna sistem yang bersatu dengan integrasi marketplace. Senanglah team nak kerja nanti!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-09 22:18:13"
+  },
+  {
+    "telegram_id": 5763,
+    "original_text": "[**ICYMI: Cursor released Plan Mode for structured code planning](https://www.testingcatalog.com/icycursor-releases-plan-mode-for-structured-code-planning/)**\n\nCursor’s new Plan Mode allows developers to create, review, and edit structured code change plans within their workflow, supporting longer agent sessions, clarifying questions, and Markdown-based documentation aimed at improving clarity and collaboration.\n\n🗞 #cursor",
+    "translated_caption": "TERKINI: Kalau terlepas, Cursor dah keluarkan Plan Mode untuk perancangan kod yang lebih tersusun! Kira macam boleh buat, semak dan edit pelan perubahan kod terus dalam kerja kita. Baguslah untuk projek yang lebih panjang sebab boleh tanya soalan, dan ada dokumentasi ala Markdown, jadi senang nak faham dan bekerjasama.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-09 22:18:17"
   }
 ]
