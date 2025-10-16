@@ -1230,5 +1230,26 @@
     "translated_caption": "TERKINI: Copilot untuk Windows dah dapat peningkatan besar dengan banyak ciri AI baru! Antaranya Copilot suara kat Windows 11, Copilot Vision, pengalaman taskbar yang lebih baik, boleh tengok dulu Copilot Actions untuk fail tempatan, dan penyambung Copilot untuk senang buat dokumen. Mantap!",
     "fb_status": "Posted",
     "date_posted": "2025-10-16 15:23:00"
+  },
+  {
+    "telegram_id": 5844,
+    "original_text": "[**Google updates Gemini CLI to 0.9.0 with interactive shell](https://www.testingcatalog.com/google-updates-gemini-cli-to-0-9-0-with-interactive-shell/)**\n\nGoogle's Gemini CLI 0.9.0 adds a built-in interactive shell with PTY support, enabling use of tools like Vim and Git within the CLI. This upgrade improves workflow continuity and aligns the tool more closely with native terminal usage.\n\n🗞 #gemini",
+    "translated_caption": "TERKINI: Google dah update Gemini CLI ke versi 0.9.0, siap ada interactive shell lagi! Sekarang boleh guna tools macam Vim dan Git terus dalam CLI tu. Nampak gaya macam kerja jadi lagi lancar dan lebih natural la bila guna. Best kan?",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-16 15:41:56"
+  },
+  {
+    "telegram_id": 5843,
+    "original_text": "[**ICYMI: Microsoft AI unveils MAI-Image-1 ranked 9 on LMArena](https://www.testingcatalog.com/icymmicrosoft-ai-unveils-mai-image-1-ranked-9-on-lmarena/)**\n\nMicrosoft has introduced MAI-Image-1, its first internal image generator, ranking No. 9 on LMArena with a focus on creator-specific output, photorealism, and speed. Future use is expected through Microsoft products without a public API.\n\n🗞 #microsoftapps",
+    "translated_caption": "TERKINI: Ala, Microsoft pun dah keluarkan generator imej AI sendiri nama dia MAI-Image-1. Dengar cerita dalam carta LMArena dia nombor 9 tau! Dia fokus nak bagi hasil yang cantik untuk creator, gambar nampak real, dan lagi cepat siap. Nanti boleh guna dalam produk Microsoft je lah, takde API untuk orang awam.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-16 15:42:00"
+  },
+  {
+    "telegram_id": 5842,
+    "original_text": "[**Microsoft adds Copilot voice and vision to Windows 11](https://www.testingcatalog.com/microsoft-adds-copilot-voice-and-vision-to-windows-11/)**\n\nMicrosoft expands Copilot in Windows 11 with voice activation, visual desktop controls, task automation, and content access across services like OneDrive and Gmail, focusing on productivity and integrated support across apps and files.\n\n🗞 #microsoftcopilot",
+    "translated_caption": "TERKINI: Microsoft dah tambah suara dan penglihatan Copilot ke Windows 11 tau! Sekarang Copilot boleh diaktifkan guna suara, kawal desktop secara visual, automatikkan kerja, dan akses kandungan dari perkhidmatan macam OneDrive dan Gmail. Nampak gaya macam lagi senang nak buat kerja dan dapat bantuan dalam pelbagai aplikasi dan fail nanti.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-16 15:42:04"
   }
 ]
