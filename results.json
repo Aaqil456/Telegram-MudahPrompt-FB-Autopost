@@ -1139,5 +1139,19 @@
     "translated_caption": "TERKINI: Wah, pengguna Sora Pro sekarang dah boleh guna ciri Papan Cerita dan hasilkan video sampai 25 saat kat web tau! Mantap!",
     "fb_status": "Posted",
     "date_posted": "2025-10-16 06:36:19"
+  },
+  {
+    "telegram_id": 5827,
+    "original_text": "ICYMI: Besides Veo 3.1, Google Flow editor got a new video in-painting feature. \n\nAlso, Frames and Ingridients are now using Veo 3.1 👀",
+    "translated_caption": "TERKINI: Kalau terlepas berita, selain Veo 3.1, editor Google Flow pun ada ciri baru untuk \"in-painting\" video tau. Oh ya, Frames dan Ingridients pun sekarang guna Veo 3.1, nampak gayanya 👀",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-16 08:52:04"
+  },
+  {
+    "telegram_id": 5826,
+    "original_text": "[**Google releases Veo 3.1 on Flow with video editing](https://www.testingcatalog.com/google-releases-veo-3-1-on-flow-with-video-editing/)**\n\nGoogle's Veo 3.1 introduces improved audio generation, refined narrative control, and higher video realism. Integrated in Flow and accessible via Gemini API and Vertex AI, it supports advanced editing and scalable access for various user needs.\n\n🗞 #flow",
+    "translated_caption": "TERKINI: Google dah keluarkan Veo 3.1 dekat Flow dengan fungsi sunting video tau! Veo 3.1 ni ada penambahbaikan dari segi penghasilan audio, kawalan naratif yang lebih baik, dan video yang lagi real. Boleh guna dekat Flow dan melalui Gemini API serta Vertex AI, so senanglah nak edit video dan boleh guna ikut keperluan masing-masing.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-16 08:52:08"
   }
 ]
