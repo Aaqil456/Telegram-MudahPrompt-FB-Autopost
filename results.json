@@ -1307,5 +1307,26 @@
     "translated_caption": "TERKINI: Eh, Windsurf baru je umum model SWE-grep dan SWE-grep-mini untuk cari maklumat dengan lebih cepat. Sekarang model-model ni dah boleh guna kat Windsurf tau! TPS 🤯",
     "fb_status": "Posted",
     "date_posted": "2025-10-16 22:00:21"
+  },
+  {
+    "telegram_id": 5855,
+    "original_text": "[**Cognition, Windsurf launch SWE-grep duo for fast code search](https://www.testingcatalog.com/cognition-windsurf-launch-swe-grep-duo-for-fast-code-search/)**\n\nCognition and Windsurf have launched SWE-grep and SWE-grep-mini, agentic models designed for rapid parallel context retrieval in large codebases. Integrated into Windsurf's Cascade, they cut search time by 20x and reduce token waste.\n\n🗞 #windsurf",
+    "translated_caption": "TERKINI: Ada berita baik! Cognition dengan Windsurf baru saja keluarkan SWE-grep dan SWE-grep-mini, macam model pintar gitu untuk cari kod dengan cepat dalam projek yang besar. Katanya, bila guna dengan Cascade dari Windsurf, boleh jimat masa cari sampai 20 kali ganda dan kurangkan pembaziran token. Hebat kan?",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-17 15:27:50"
+  },
+  {
+    "telegram_id": 5854,
+    "original_text": "[**Anthropic launches Microsoft 365 connector for Claude](https://www.testingcatalog.com/anthropic-launches-microsoft-365-connector-for-claude/)**\n\nClaude now integrates with Microsoft 365, enabling enterprise users to query data from SharePoint, OneDrive, Outlook, and Teams through a unified interface. The update supports data access, privacy controls, and organization-wide search capabilities.\n\n🗞 #claude",
+    "translated_caption": "TERKINI: Wah, menarik ni! Claude sekarang boleh guna dengan Microsoft 365. Jadi, senanglah kalau nak cari data dari SharePoint, OneDrive, Outlook, dan Teams sebab semuanya dah disatukan. Siap ada kawalan privasi dan boleh cari kat seluruh organisasi lagi!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-17 15:27:55"
+  },
+  {
+    "telegram_id": 5853,
+    "original_text": "[**Anthropic rolls out Claude Skills to Pro Max Team and Enterprise users](https://www.testingcatalog.com/anthropic-rolls-out-claude-skills-to-pro-max-team-and-enterprise-users/)**\n\nAnthropic introduces Skills for Claude AI, allowing custom task modules with code execution and version control. Targeted at enterprise tiers, Skills support scalable workflows, embedded expertise, and secure deployment across Claude platforms.\n\n🗞 #claude",
+    "translated_caption": "TERKINI: Anthropic dah keluarkan ciri baru namanya \"Skills\" untuk Claude AI, khas untuk pengguna pelan Pro Max Team dan Enterprise! Kiranya macam boleh ajar Claude buat tugas-tugas spesifik ikut cara kita lah. Ada kawalan versi lagi, selamat dan boleh guna banyak-banyak kali kat pelbagai platform Claude. Memudahkan kerja betullah!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-17 15:27:59"
   }
 ]
