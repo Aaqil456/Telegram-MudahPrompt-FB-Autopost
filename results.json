@@ -1608,5 +1608,19 @@
     "translated_caption": "TERKINI: Wah, Grok kat web ni dah boleh upgrade video Imagine ke kualiti HD, bestnya! 🤩",
     "fb_status": "Posted",
     "date_posted": "2025-10-22 11:46:20"
+  },
+  {
+    "telegram_id": 5902,
+    "original_text": "[**Pokee AI launches open-source PokeeResearch-7B agent](https://www.testingcatalog.com/pokee-ai-launches-open-source-pokeeresearch-7b-agent/)**\n\nPokee AI released PokeeResearch-7B, an open-source 7B research agent with code, weights, and paper, claiming top results in its class. It supports local or API use, web search, self-verification, and is licensed under Apache-2.0.\n\n🗞 #release",
+    "translated_caption": "TERKINI: Pokee AI baru je keluarkan PokeeResearch-7B, ejen penyelidikan sumber terbuka 7B dengan kod, berat, dan kertas kerja. Katanya hasil dia terbaik dalam kelas dia. Boleh guna kat lokal atau API, cari kat web, semak sendiri, dan lesen dia Apache-2.0. Menarik ni!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-22 17:17:25"
+  },
+  {
+    "telegram_id": 5901,
+    "original_text": "Pokee released PokeeResearch-7B, an open-source 7B deep research agent model that reasons, retrieves, and self-verifies.\n\nAmong 10 benchmarks, PokeeResearch-7B outperforms all other open 7B deep research models.\n\nAvailable Pokee AI, API 👀",
+    "translated_caption": "TERKINI: Ada model baru, PokeeResearch-7B, keluar! Ia jenis sumber terbuka dan pandai buat kajian mendalam, siap boleh menaakul, mencari maklumat, dan semak sendiri lagi. Katanya, lagi bagus dari model 7B lain yang terbuka, berdasarkan ujian. Boleh cuba di Pokee AI, API dia pun ada.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-22 17:17:38"
   }
 ]
