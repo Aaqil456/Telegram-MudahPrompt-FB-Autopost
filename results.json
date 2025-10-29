@@ -2070,5 +2070,19 @@
     "translated_caption": "TERKINI: Alibaba akan melancarkan Qwen3 Max Thinking hujung minggu ini. Qwen memang dah pun ada pilihan model terbesar dalam industri ni!",
     "fb_status": "Posted",
     "date_posted": "2025-10-29 09:20:27"
+  },
+  {
+    "telegram_id": 5983,
+    "original_text": "Both \"gpt-oss-safeguard-120b” and “gpt-oss-safeguard-20b” are already available on HuggingFace.\n\nInternal moderation eval 👀",
+    "translated_caption": "TERKINI: Dua model, \"gpt-oss-safeguard-120b\" dan \"gpt-oss-safeguard-20b\", dah boleh didapati di HuggingFace tau. Ada penilaian moderasi dalaman juga. 😉",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-29 16:55:27"
+  },
+  {
+    "telegram_id": 5982,
+    "original_text": "BREAKING 🚨: Cursor got a major upgrade to version 2.0 with a multi-agent system and its own coding model!\n\n- Cheetah is now Composer-1, and it is 4 times faster than other frontier models.\n- The same prompt can run across multiple models\n- Built-in browser for testing\n- Voice mode! 🔥\n\nI've been testing it for a while, and that's truly a huge upgrade!",
+    "translated_caption": "TERKINI: Wah, Cursor dah update besar-besaran ke versi 2.0 dengan sistem multi-agent dan model kod sendiri! Cheetah sekarang Composer-1, lagi laju empat kali ganda dari model lain. Boleh guna satu prompt untuk banyak model, ada browser siap-siap untuk testing, dan ada mode suara pulak! Memang rasa lain betul lepas dah cuba sendiri.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-29 16:56:03"
   }
 ]
