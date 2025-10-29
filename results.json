@@ -2056,5 +2056,12 @@
     "translated_caption": "TERKINI: Eh, dorang tengah siapkan ciri video pulak untuk Grok Imagine kat web. Lepas ni, ada pilihan baru nak pilih sama ada nak buat video atau gambar. Macam menarik je!",
     "fb_status": "Posted",
     "date_posted": "2025-10-28 23:59:33"
+  },
+  {
+    "telegram_id": 5979,
+    "original_text": "OpenAI is planning to release 2 new fine-tuned open models, \"gpt-oss-safeguard-120b” and “gpt-oss-safeguard-20b”. The official blog post was taken down after publishing. \n\nThese models will use reasoning to directly interpret a developer-provided policy at inference time.",
+    "translated_caption": "TERKINI: OpenAI ada plan nak keluarkan 2 model sumber terbuka yang dah diperhalusi, nama dia \"gpt-oss-safeguard-120b” dan “gpt-oss-safeguard-20b”. Tapi, posting blog rasmi pasal ni dah dipadam lepas diterbitkan. Model-model ni nanti guna akal untuk tafsir dasar yang pembangun bagi masa guna dia.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-29 08:51:05"
   }
 ]
