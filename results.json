@@ -2126,5 +2126,61 @@
     "translated_caption": "TERKINI: Google baru je lancarkan Pomelli, agen AI pemasaran percubaan! Diorang tengah uji benda ni dalam Google Labs untuk bantu bisnes kecil buat kempen pemasaran. Dia boleh analisis laman web, ambil data jenama, lepas tu hasilkan aset kempen yang boleh diubahsuai. Tapi, buat masa ni terhad kat kawasan tertentu je.",
     "fb_status": "Posted",
     "date_posted": "2025-10-29 23:49:39"
+  },
+  {
+    "telegram_id": 6000,
+    "original_text": "[**xAI updates Imagine with video extension and HD upscaling](https://www.testingcatalog.com/xai-updates-imagine-with-video-extension-and-hd-upscaling/)**\n\nxAI has expanded Grok’s Imagine feature on web to support text-to-image and video generation, HD upscaling, and prompt-based video remixing, signaling a push toward broader creative capabilities and competitive positioning in generative media.\n\n🗞 #grok",
+    "translated_caption": "TERKINI: Wah, macam best je! xAI baru je upgrade Imagine dia. Sekarang dah boleh buat video dari teks, gambar lagi sharp sebab ada HD upscaling, dan boleh remix video guna prompt. Nampak macam nak bagi lebih banyak pilihan untuk kita berkreativiti ni. 👍",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:16"
+  },
+  {
+    "telegram_id": 5999,
+    "original_text": "[**Cognition launches SWE-1.5 with 950 tokens per second](https://www.testingcatalog.com/cognition-launches-swe-1-5-with-950-tokens-per-second/)**\n\nCognition has released SWE-1.5, a high-performance coding model built for speed and precision. Running on Cerebras hardware, it supports fast code generation and analysis and is now publicly accessible on the Windsurf platform.\n\n🗞 #windsurf",
+    "translated_caption": "TERKINI: Cognition baru je lancarkan SWE-1.5 tau, model coding yang super laju dengan 950 token per saat! Dengar cerita, model ni memang dibina khas untuk kelajuan dan ketepatan, dan sekarang korang boleh cuba sendiri dekat platform Windsurf.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:19"
+  },
+  {
+    "telegram_id": 5997,
+    "original_text": "BREAKING 🚨: OpenAI started preparing for an IPO at up to $1 trillion valuation according to Reuters. \n\nOne of the biggest IPOs of all time?",
+    "translated_caption": "TERKINI: Dengarnya OpenAI dah mula buat persiapan untuk tawaran awam permulaan (IPO) dengan nilai sampai $1 trilion, menurut Reuters. Boleh jadi salah satu IPO terbesar dalam sejarah ni!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:28"
+  },
+  {
+    "telegram_id": 5996,
+    "original_text": "[**Grammarly rebrands and launches AI-powered Superhuman GO](https://www.testingcatalog.com/grammarly-rebrands-and-launches-ai-powered-superhuman-go/)**\n\nSuperhuman, formerly Grammarly, has rebranded to reflect its expanded AI suite combining Grammarly, Coda, Superhuman Mail, and the new Superhuman Go—an AI agent platform supporting workflows across writing, scheduling, and communication.\n\n🗞 #grammarly",
+    "translated_caption": "TERKINI: Grammarly dah tukar wajah baru dan lancarkan Superhuman GO yang dikuasakan oleh AI! Nampaknya diorang nak gabungkan semua servis diorang termasuklah platform AI baru untuk bantu korang dengan penulisan, jadual, dan komunikasi. Bestnya!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:34"
+  },
+  {
+    "telegram_id": 5995,
+    "original_text": "[**Cursor debuts Composer and multi-agent suite in Cursor 2.0](https://www.testingcatalog.com/cursor-debuts-composer-and-multi-agent-suite-in-cursor-2-0/)**\n\nCursor 2.0 introduces Composer, a coding model tailored for rapid code generation and editing, and a multi-agent interface for parallel development. The release targets advanced teams managing complex workflows and code review tasks.\n\n🗞 #cursor",
+    "translated_caption": "TERKINI: Cursor baru je keluarkan versi 2.0 dengan Composer, model pengekodan yang direka khas untuk hasilkan dan edit kod dengan cepat, dan juga antara muka multi-agent untuk pembangunan selari. Nampaknya sasaran utama ialah team yang hebat dan uruskan aliran kerja yang rumit dan tugas semakan kod. Menarik!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:37"
+  },
+  {
+    "telegram_id": 5994,
+    "original_text": "[**Google upgrades NotebookLM with Gemini 1m token window](https://www.testingcatalog.com/google-upgrades-notebooklm-with-gemini-1m-token-window/)**\n\nGoogle's latest NotebookLM update integrates Gemini's 1 million token context window, enabling deeper data retention, nuanced analysis, and extended conversation threads. New role customization and history features support complex research workflows.\n\n🗞 #notebooklm",
+    "translated_caption": "TERKINI: Google dah upgrade NotebookLM dengan Gemini yang boleh tampung 1 juta token! Maksudnya, dia boleh simpan data lebih banyak, buat analisis yang lebih mendalam, dan sembang lebih panjang. Ada ciri baru untuk ubah peranan dan tengok sejarah kerja pun, memang sesuai sangat untuk buat research yang kompleks.",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:41"
+  },
+  {
+    "telegram_id": 5993,
+    "original_text": "Chat history on NotebookLM is finally here! \n\nNotebookLM got an 8x larger context window, 6x longer conversation memory (conversation history) and better response quality. \n\nGoal setting in chat config is now available to all users.",
+    "translated_caption": "TERKINI: Yay! Akhirnya boleh tengok balik history chat kat NotebookLM! Lebih best lagi, NotebookLM ni dah lagi power sekarang, dengan memori yang lebih besar dan kualiti jawapan pun makin mantap. Sekarang dah boleh set goal siap-siap dalam chat config, semua orang dah boleh guna! 🎉",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:07:54"
+  },
+  {
+    "telegram_id": 5992,
+    "original_text": "BREAKING 🚨: Windsurf has released a new SWE-1.5 model that delivers \"near-SOTA coding performance\" at significantly higher speeds (950 tok/s).\n\nFalcon has been revealed 👀",
+    "translated_caption": "TERKINI: Wah, Windsurf baru saja keluarkan model SWE-1.5 yang baru ni! Katanya, prestasi pengekodan dia hampir sama dengan yang terbaik sekarang, tapi lagi laju (950 tok/s). Falcon pun dah didedahkan, menarik ni!",
+    "fb_status": "Posted",
+    "date_posted": "2025-10-30 02:08:01"
   }
 ]
