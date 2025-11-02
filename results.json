@@ -2343,5 +2343,19 @@
     "translated_caption": "TERKINI: Comet dah keluarkan ciri baru, Privacy Snapshot! Sekarang lebih senang nak kawal privasi sebab semua kawalan data, kebenaran laman web, dan akses pembantu ada kat satu tempat je kat widget di laman utama. Data pun kebanyakannya kekal dalam peranti kita, jadi tak banyak bergantung kat server. Senang kan? 😉",
     "fb_status": "Posted",
     "date_posted": "2025-11-02 14:16:23"
+  },
+  {
+    "telegram_id": 6030,
+    "original_text": "BREAKING 🚨: Google is working on a new Agent block for Opal workflow builder. Agent will be able to work “iteratively” on a given task until it is solved. \n\nBesides this, a new Smart Layout and additional MCP connectors are coming soon as well!",
+    "translated_caption": "TERKINI: Nampaknya Google tengah usahakan blok Agent baru untuk pembina aliran kerja Opal. Agent ni nanti boleh buat kerja \"secara berulang-ulang\" sampai tugasan tu selesai. Selain tu, ada Smart Layout baru dan penyambung MCP tambahan pun akan datang tak lama lagi!",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-02 15:56:14"
+  },
+  {
+    "telegram_id": 6029,
+    "original_text": "[**Google plans to expand Opal with advanced Agent capabilities](https://www.testingcatalog.com/google-plans-to-expand-opal-with-advanced-agent-capabilities/)**\n\nGoogle is expanding Opal’s engine builder with upcoming MCP integration, Smart Layouts, and an Agent feature, aiming to unify app development with Google Workspace and introduce AI-supported, multi-step workflow automation.\n\n🗞 #opal",
+    "translated_caption": "TERKINI: Google nampaknya nak kembangkan Opal dengan ciri-ciri Agent yang lebih canggih! Dorang nak satukan pembangunan aplikasi dengan Google Workspace dan memperkenalkan automasi aliran kerja berbilang langkah yang disokong AI. Macam menarik je!",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-02 15:56:19"
   }
 ]
