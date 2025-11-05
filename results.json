@@ -2504,5 +2504,19 @@
     "translated_caption": "TERKINI: Eh, dengar cerita ada Gemini 3 versi preview nak muncul November nanti kat Vertex AI (tapi belum ada lagi tau). Yang kita tahu, versi ni sokong context window sampai 1 juta! Hebat betul.",
     "fb_status": "Posted",
     "date_posted": "2025-11-05 14:58:50"
+  },
+  {
+    "telegram_id": 6064,
+    "original_text": "[**Google prepares a new Image Agent for Stitch](https://www.testingcatalog.com/google-prepares-a-new-image-agent-for-stitch/)**\n\nGoogle is expanding Stitch with features like Image Agent for AI-generated visuals, automatic project summaries from chat history, and broader export options, aligning with its strategy to unify design and development workflows across AI tools.\n\n🗞 #stitch",
+    "translated_caption": "TERKINI: Google tengah siap sedia dengan Image Agent baru untuk Stitch! Nampaknya, Stitch akan ditambah baik dengan ciri-ciri menarik seperti Image Agent untuk gambar yang dijana AI, ringkasan projek automatik dari sejarah chat, dan lebih banyak pilihan eksport. Macam strategi Google nak satukan aliran kerja reka bentuk dan pembangunan melalui alat AI ni.",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-05 15:30:25"
+  },
+  {
+    "telegram_id": 6063,
+    "original_text": "[**Google plans to release Gemini 3 Pro Preview in November](https://www.testingcatalog.com/google-plans-to-release-gemini-3-pro-preview-in-november/)**\n\nGoogle’s Gemini 3 Pro preview, featuring a 1M token context window, has surfaced in VertexAI code, signaling a limited release in November and a wider rollout in December, reinforcing its role in large-scale, context-rich AI tasks.\n\n🗞 #gemini",
+    "translated_caption": "TERKINI: Google nampaknya merancang untuk melancarkan Gemini 3 Pro Preview pada bulan November ni! Versi ni ada kemampuan memproses konteks yang besar, dan dijangka akan ada pelancaran terhad bulan ni diikuti dengan pengedaran yang lebih luas pada bulan Disember. Mesti menarik ni untuk tugas-tugas AI berskala besar!",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-05 15:30:33"
   }
 ]
