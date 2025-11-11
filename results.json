@@ -2826,5 +2826,19 @@
     "translated_caption": "TERKINI: Nampaknya OpenAI tengah buat fungsi Group Chat untuk ChatGPT tau! Boleh lah sembang-sembang ramai-ramai dengan setting AI yang boleh diubah ikut suka. Mesti seronok kalau nak buat kerja berkumpulan atau bincang projek semua kat satu tempat je.",
     "fb_status": "Posted",
     "date_posted": "2025-11-11 11:19:14"
+  },
+  {
+    "telegram_id": 6119,
+    "original_text": "BREAKING 🚨: Grok CLI Agent is coming! \n\nBesides Grok Code Remote, users will be able to run coding tasks from their local machines, too (not available yet). \n\n- \"Install the Grok agent\"\n- \"npm install -g @xai-official/grok\"",
+    "translated_caption": "TERKINI: Wah, nampaknya ejen Grok CLI bakal tiba! Selain Grok Code Remote, nanti kita boleh jalankan tugas-tugas kod dari komputer sendiri juga (tapi belum ada lagi tau). Caranya nanti lebih kurang macam ni: \"Pasang ejen Grok\" dan \"npm install -g -official/grok\". 😉",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-11 13:47:15"
+  },
+  {
+    "telegram_id": 6118,
+    "original_text": "[**Verdent coding agent debuts with 76.1% pass@1 on SWE bench](https://www.testingcatalog.com/verdent-coding-agent-debuts-with-76-1-pass-1-on-swe-bench/)**\n\nVerdent AI launches with a 76.1% pass@1 on SWE-bench Verified, offering a production-ready coding agent for professionals via VS Code and standalone app. It integrates top models and automates code tasks through a structured plan-code-verify cycle.\n\n🗞 #ai",
+    "translated_caption": "TERKINI: Wah, ada lagi satu teknologi AI baru muncul! Kali ni dia boleh bantu buat coding dan nampaknya bagus juga. Dapat markah 76.1% dalam ujian SWE-bench Verified, maknanya boleh diguna pakai untuk kerja-kerja profesional. Boleh guna kat VS Code atau aplikasi sendiri. Dia guna model-model terbaik dan automatikkan kerja coding dengan ikut kitaran rancang-kod-sahkan. Menarik!",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-11 13:47:24"
   }
 ]
