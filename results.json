@@ -3148,5 +3148,12 @@
     "translated_caption": "TERKINI: Google nampaknya nak mudahkan lagi kerja-kerja penyelidikan dengan Gemini Enterprise! Diorang tengah buat sistem yang boleh bagi cadangan sampai 100 idea dan nilai idea tu dalam masa 40 minit je. Mesti best untuk kerja-kerja yang lebih kompleks dan penyelidikan nanti!",
     "fb_status": "Posted",
     "date_posted": "2025-11-16 21:55:49"
+  },
+  {
+    "telegram_id": 6179,
+    "original_text": "BREAKING 🚨: Google is working on multi-agent systems to help you refine ideas with tournament-like evaluation. Each run takes around 40 minutes and brings you 100 detailed ideas on a given research topic. \n\n2 new multi-agents are being developed for Gemini Enterprise: \n- Idea Generation - \"Create a multi-agent innovation session\"\n- Co-Scientist - \"Drive novel scientific discovery with Co-Scientist\"\n\nCo-Scientist 3-step workflow 👀\n- Tell Co-Scientist what you plan to research, point it to relevant data, and set your evaluation criteria.\n- A team of agents will generate ideas on your topic using their available data\n- The agents will evaluate the ideas against your criteria and rank them, tournament-style\n\nGoogle is not only automating research but also preparing a product that will enable others to do so. \n\nThis is the next level 🤯",
+    "translated_caption": "TERKINI: Google tengah usahakan sistem multi-agen tau, untuk bantu kita perhalusi idea dengan cara macam pertandingan gitu. Sekali jalan ambil masa lebih kurang 40 minit dan boleh bagi kita 100 idea bernas tentang topik penyelidikan. Ada dua lagi multi-agen baru yang dibangunkan untuk Gemini Enterprise: yang pertama untuk jana idea dan yang kedua macam pembantu saintis. Pembantu saintis ni ada 3 langkah kerja: bagitau dia apa nak dikaji, bagi data yang berkaitan, dan tetapkan kriteria penilaian. Lepas tu, pasukan agen akan jana idea guna data yang ada, dan diorang akan nilai idea-idea tu berdasarkan kriteria kita, lepas tu susun ikut ranking, macam pertandingan. Nampak gayanya Google bukan saja automatikkan penyelidikan, tapi juga nak buat produk yang boleh bantu orang lain buat benda yang sama. Memang level seterusnya ni! 🤯",
+    "fb_status": "Posted",
+    "date_posted": "2025-11-16 22:19:26"
   }
 ]
