@@ -20,7 +20,7 @@ LONG_LIVED_USER_TOKEN = os.getenv("LONG_LIVED_USER_TOKEN", "")
 
 SESSION_FILE = "telegram_session"
 RESULT_FILE = "results.json"
-SOURCE_CHAT = "testingcatalog"  # change if needed
+SOURCE_CHAT = "https://t.me/+Oo6_hVbeCPMyODY1"  # change if needed
 
 # HTTP defaults
 HTTP_TIMEOUT = 60
