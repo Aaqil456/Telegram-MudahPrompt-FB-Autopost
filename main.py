@@ -74,6 +74,7 @@ def translate_to_malay(text: str, retries: int = 2) -> str:
         "Do not include usernames, mentions, links, or Telegram source references.\n"
         "If the original starts with 'JUST IN:' or '**JUST IN:**', translate it as 'TERKINI:'.\n"
         "Write it as a casual, friendly FB caption in one paragraph — no heading, no explanation.\n"
+        "IF possible try to make your posting straight to the point and easy to understand.\n"
         "Avoid slang or shouting; keep it natural, chill, and neutral.\n\n"
         f"'{cleaned}'"
     )
