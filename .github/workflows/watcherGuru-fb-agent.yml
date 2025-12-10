@@ -3,7 +3,7 @@ name: Telegram-MudahPrompt-FB-Autopost
 on:
   workflow_dispatch:
   schedule:
-     - cron: "*/10 * * * *"
+     - cron: "0 * * * *"   # Runs every hour
 
 permissions:
   contents: write
