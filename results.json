@@ -4072,5 +4072,33 @@
     "translated_caption": "TERKINI: Google sedang usahakan pilihan eksport baharu ke Firebase untuk ejen reka bentuk Stitch. Firebase dan Lovable pun belum ada lagi buat masa ni. Tak lama lagi 👀",
     "fb_status": "Posted",
     "date_posted": "2025-12-15 09:19:52"
+  },
+  {
+    "telegram_id": 55,
+    "original_text": "[**AI News**]\n\n[**Google kembangkan Gemini dengan integrasi NotebookLM**](https://www.testingcatalog.com/google-expands-gemini-with-notebooklm-integration/)\n\nGoogle sedang melancarkan integrasi NotebookLM dalam Gemini, membolehkan pengguna pautkan buku nota sebagai sumber data langsung dalam perbualan. Ciri ini menyokong pelbagai lampiran dan sedang diperluaskan secara berperingkat kepada akaun percuma dan berbayar.\n\n🗞 #gemini",
+    "translated_caption": "TERKINI: Google kembangkan Gemini dengan integrasi NotebookLM! Sekarang anda boleh pautkan nota anda sebagai sumber data terus dalam perbualan Gemini. Fungsi ini menyokong pelbagai lampiran dan akan dilancarkan secara berperingkat untuk akaun percuma dan berbayar.",
+    "fb_status": "Posted",
+    "date_posted": "2025-12-16 14:13:16"
+  },
+  {
+    "telegram_id": 54,
+    "original_text": "[**AI News**]\n\n[**Manus melancarkan ejen Max dengan alatan mudah alih dan reka bentuk baharu**](https://www.testingcatalog.com/manus-launches-max-agent-with-new-mobile-and-design-tools/)\n\nManus 1.6 memperkenalkan ejen Max, pembangunan mudah alih, dan Design View, menawarkan penyelesaian canggih berkuasa AI untuk tugasan seperti pemodelan kewangan, penciptaan aplikasi, dan penyelidikan. Ia kini boleh didapati dengan kos kredit yang dikurangkan untuk pengguna awal.\n\n🗞 #manus",
+    "translated_caption": "TERKINI: Manus 1.6 baru sahaja melancarkan ejen Max, pembangunan mudah alih, dan Design View. Ini semua adalah penyelesaian canggih berkuasa AI untuk membantu tugasan seperti pemodelan kewangan, penciptaan aplikasi, dan penyelidikan. Untuk pengguna awal, ia kini boleh didapati dengan kos kredit yang dikurangkan!",
+    "fb_status": "Posted",
+    "date_posted": "2025-12-16 14:13:20"
+  },
+  {
+    "telegram_id": 53,
+    "original_text": "[**AI News**]\n\n[**NVIDIA melancarkan model Nemotron 3 Nano, Super dan Ultra**](https://www.testingcatalog.com/nvidia-launches-nemotron-3-nano-super-and-ultra-models/)\n\nNVIDIA memperkenalkan keluarga model Nemotron 3—Nano, Super, dan Ultra—yang direka untuk tugas ejen AI menggunakan persediaan campuran pakar (mixture-of-experts) hibrid. Model Nano menawarkan daya pemprosesan tinggi (high throughput) dan pemprosesan konteks panjang (long-context processing) dengan penggunaan sumber yang rendah.\n\n🗞 #ai",
+    "translated_caption": "TERKINI: NVIDIA memperkenalkan keluarga model Nemotron 3—Nano, Super, dan Ultra—yang direka untuk tugasan ejen AI menggunakan persediaan campuran pakar (mixture-of-experts) hibrid. Model Nano menawarkan daya pemprosesan tinggi dan pemprosesan konteks panjang dengan penggunaan sumber yang rendah. #ai",
+    "fb_status": "Posted",
+    "date_posted": "2025-12-16 14:13:25"
+  },
+  {
+    "telegram_id": 52,
+    "original_text": "[**AI News**]\n\n[**TinyFish lancarkan Mino untuk automasi laman web tanpa API**](https://www.testingcatalog.com/tinyfish-launches-mino-to-automate-sites-without-api/)\n\nTinyFish melancarkan Mino, sebuah platform ejen web yang mengubah laman web tanpa API menjadi permukaan programatik. Ia menyokong tugas automasi yang kompleks dengan boleh dipercayai dan cekap kos, malah sudah menggerakkan jutaan operasi bulanan untuk syarikat-syarikat besar.\n\n🗞 #ai",
+    "translated_caption": "TERKINI: TinyFish baru saja melancarkan Mino, satu platform ejen web yang boleh mengubah laman web tanpa API menjadi permukaan programatik. Ini membolehkan tugasan automasi yang kompleks berjalan dengan lebih dipercayai dan cekap kos, malah sudah digunakan untuk menggerakkan jutaan operasi bulanan bagi syarikat-syarikat besar. #ai",
+    "fb_status": "Posted",
+    "date_posted": "2025-12-16 14:13:29"
   }
 ]
