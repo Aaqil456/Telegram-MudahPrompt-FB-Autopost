@@ -4856,5 +4856,33 @@
     "translated_caption": "TERKINI: Meta dah umumkan cermin mata Ray-Ban Meta AI Gen 2 baharu yang dioptimumkan untuk preskripsi, Blayzer Optics, dan Scriber Optics. Selain itu, beberapa ciri AI untuk Meta Glasses pun dah diumumkan jugak: penjejakan nutrisi di mana pengguna boleh guna suara, gambar, dan Meta AI untuk rekod makanan diorang dengan cadangan nutrisi tambahan (untuk AS saja); fungsi 'Recall' untuk perbualan WhatsApp di mana Meta AI boleh ringkaskan mesej-mesej terakhir (untuk EAP saja); dan tulisan tangan untuk Meta Display akan dilancarkan kepada semua orang dalam beberapa minggu akan datang serta akan tersedia jugak dalam iMessage.",
     "fb_status": "Posted",
     "date_posted": "2026-04-02 14:15:42"
+  },
+  {
+    "telegram_id": 167,
+    "original_text": "[**AI Tools**]\n\n💥Perplexity AI dah [melancarkan](https://www.perplexity.ai/secure-intelligence-institute) Secure Intelligence Institute, yang diketuai oleh Ninghui Li. Pasukan ni fokus pada risiko-risiko yang berkaitan dengan ejen AI: penggantian arahan, kesilapan delegasi, dan kegagalan rantaian.\n\nKertas kerja pertama mereka menerangkan model ancaman dan sistem pertahanan pelbagai lapisan, termasuk penapisan input, kekangan model, pengasingan, dan kawalan tindakan. Ini menandakan satu anjakan: keselamatan kini menjadi sebahagian penting daripada seni bina sistem ejen, bukannya sekadar tambahan luaran. Kerja ini merangkumi bidang kriptografi, keselamatan, pembelajaran mesin, privasi data, dan penilaian kerentanan sistem yang kompleks.\n\n[🧠 AI Toolbox Daily | Best AI tools](https://t.me/+bx8eoQcSAElhZjdi)",
+    "translated_caption": "TERKINI: Perplexity AI baru saja melancarkan Secure Intelligence Institute, yang diketuai oleh Ninghui Li. Pasukan ni akan fokus pada risiko-risiko berkaitan ejen AI seperti penggantian arahan, kesilapan delegasi, dan kegagalan rantaian. Kertas kerja pertama mereka dah terangkan model ancaman dan sistem pertahanan pelbagai lapisan, termasuk penapisan input, kekangan model, pengasingan, dan kawalan tindakan. Ini menunjukkan keselamatan kini menjadi sebahagian penting dalam sistem ejen, bukan lagi hanya tambahan luar. Kerja ini merangkumi kriptografi, keselamatan, pembelajaran mesin, privasi data, dan penilaian kerentanan sistem yang kompleks.",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-05 23:21:25"
+  },
+  {
+    "telegram_id": 166,
+    "original_text": "[**AI News**]\n\nPengguna kini boleh bertukar antara mod Kelajuan dan Kualiti di Grok Imagine Video. xAI juga sedang membangunkan mod Profesional baharu untuk Imagine, yang dijangka akan dilancarkan akhir bulan ini.",
+    "translated_caption": "TERKINI: Pengguna kini boleh bertukar antara mod Kelajuan dan Kualiti di Grok Imagine Video. xAI juga sedang membangunkan mod Profesional baharu untuk Imagine, yang dijangka akan dilancarkan akhir bulan ini.",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-05 23:21:33"
+  },
+  {
+    "telegram_id": 165,
+    "original_text": "[**AI News**]\n\nAnthropic vs OpenClaw 🔥\n\nPengguna tak boleh lagi guna langganan Claude untuk menampung penggunaan alatan macam OpenClaw.\n\nMasih lagi boleh guna API key.\n\n“Kami dah berusaha keras untuk penuhi permintaan Claude yang makin tinggi, dan langganan kami tak direka untuk corak penggunaan alatan pihak ketiga ni.”",
+    "translated_caption": "TERKINI: Anthropic dan OpenClaw bergeser 🔥 Kini pengguna tak boleh lagi guna langganan Claude untuk menampung penggunaan alatan seperti OpenClaw. Jangan risau, API key masih boleh digunakan. \"Kami dah berusaha keras untuk penuhi permintaan Claude yang makin tinggi, dan langganan kami tak direka untuk corak penggunaan alatan pihak ketiga ni.\"",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-05 23:21:43"
+  },
+  {
+    "telegram_id": 164,
+    "original_text": "[**AI News**]\n\n[**Flova AI melancarkan sokongan Seedance 2.0 untuk penjanaan video**](https://www.testingcatalog.com/flova-ai-releases-seedance-2-0-support-for-video-generation/)\n\nFlova kini mengintegrasikan Seedance 2.0, model video AI dari ByteDance, membolehkan penjanaan multimodal 1080p dengan audio asli, kesinambungan berbilang tangkapan, dan watak yang stabil. Pengguna PRO boleh dapat sehingga 50 operasi serentak dalam satu aliran kerja video semua-dalam-satu, dan ia kini dalam fasa beta dengan harga diskaun.\n\n🗞 #tajaan",
+    "translated_caption": "TERKINI: Flova AI kini menyokong Seedance 2.0 untuk penjanaan video! Flova telah mengintegrasikan model video AI dari ByteDance ini, membolehkan anda menjana video multimodal 1080p dengan audio asli, kesinambungan berbilang tangkapan, dan watak yang stabil. Pengguna PRO boleh mendapatkan sehingga 50 operasi serentak dalam satu aliran kerja video semua-dalam-satu. Ia kini dalam fasa beta dengan harga diskaun. #tajaan",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-05 23:21:47"
   }
 ]
