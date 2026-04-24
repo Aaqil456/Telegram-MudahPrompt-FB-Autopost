@@ -4947,5 +4947,33 @@
     "translated_caption": "TERKINI: Anthropic bekerjasama dengan Amazon untuk tingkatkan kuasa pengkomputeran mereka. Anthropic akan dapat akses hingga 5 gigawatt untuk melatih dan menggunakan Claude. Amazon pula melabur tambahan $5 bilion dalam Anthropic, dengan potensi sehingga $20 bilion lagi pada masa hadapan. Memang hangat betul dunia pengkomputeran sekarang ni 🔥",
     "fb_status": "Posted",
     "date_posted": "2026-04-21 10:07:38"
+  },
+  {
+    "telegram_id": 180,
+    "original_text": "[**AI News**]\n\nClaude Managed Agents sekarang dah ada sokongan Memori! Kalau-kalau ada yang terlepas pandang, Managed Agents tersedia di Anthropic Workbench.\n\nConway mungkin akan dapat juga nanti 👀",
+    "translated_caption": "TERKINI: Claude Managed Agents kini dah ada sokongan Memori! Mana-mana yang terlepas pandang, Managed Agents ni ada dekat Anthropic Workbench. Conway pun mungkin akan dapat sokongan ni nanti 👀",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-24 16:42:30"
+  },
+  {
+    "telegram_id": 179,
+    "original_text": "[**AI News**]\n\nXiaomi dah keluarkan model sumber terbuka baru, iaitu MiMo-V2.5-Pro dan MiMo-V2.5.\n\n__   MiMo-V2.5-Pro ni, model paling kuat yang pernah ada setakat ni.\n__   Manakala MiMo-V2.5 pula, ia adalah omnimodal asli yang ada keupayaan agen yang mantap.",
+    "translated_caption": "TERKINI: Xiaomi dah lancarkan model sumber terbuka terbaru mereka, MiMo-V2.5-Pro dan MiMo-V2.5! MiMo-V2.5-Pro ni adalah model paling berkuasa setakat ini, manakala MiMo-V2.5 pula merupakan omnimodal asli dengan keupayaan agen yang sangat mantap.",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-24 16:42:37"
+  },
+  {
+    "telegram_id": 178,
+    "original_text": "[**AI News**]\n\nOPENAI 🚨: Ejen WORKSPACE 24/7 kini dah ada untuk pelan CHATGPT BUSINESS, ENTERPRISE, dan EDU.\nEjen ChatGPT baharu ni dikuasakan oleh Codex, boleh guna Skills, Connectors, dan laksanakan tindakan berjadual.\nOpenAI Cloud Next 👀",
+    "translated_caption": "TERKINI: Ejen WORKSPACE 24/7 kini tersedia untuk pelan CHATGPT BUSINESS, ENTERPRISE, dan EDU! Ejen ChatGPT baharu ini dikuasakan oleh Codex, boleh guna Skills, Connectors, dan laksanakan tindakan berjadual. Nantikan lebih banyak berita dari OpenAI Cloud Next!",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-24 16:43:08"
+  },
+  {
+    "telegram_id": 177,
+    "original_text": "[**AI News**]\n\nSebenarnya, ini satu perkembangan yang agak besar 🔥\n\nAnthropic baru-baru ini memperkenalkan Live Artifacts untuk Cowork, yang membolehkan pengguna membina apa-apa aplikasi web menggunakan data dari penyambung yang tersedia.\n\nApabila dibuka, Artifacts akan menarik data terkini, jadi anda boleh bina sekali dan gunakannya semula nanti.\n\nKenapa ini penting?\n\n> Perubahan ini mengurangkan nilai dari antaramuka UI sebab sekarang semua orang boleh guna Claude untuk bina sendiri.\n\n> Ejen 24/7 yang akan datang dari Claude akan menyokong \"UI Tabs\", yang kemungkinan besar adalah \"Live Artifacts\". Pengguna akan dapat membina alatan untuk diri sendiri dan juga ejen AI mereka.\n\nGenUI sudah tiba 👀\n\nContoh - papan pemuka OKRs berdasarkan data Notion.",
+    "translated_caption": "TERKINI: Ini adalah satu perkembangan yang agak besar 🔥 Anthropic baru-baru ini memperkenalkan Live Artifacts untuk Cowork, yang membolehkan pengguna membina apa-apa aplikasi web menggunakan data dari penyambung yang tersedia. Apabila dibuka, Artifacts akan menarik data terkini, jadi anda boleh bina sekali dan gunakannya semula nanti. Kenapa ini penting? Perubahan ini mengurangkan nilai dari antaramuka UI sebab sekarang semua orang boleh guna Claude untuk bina sendiri. Ejen 24/7 yang akan datang dari Claude akan menyokong \"UI Tabs\", yang kemungkinan besar adalah \"Live Artifacts\". Pengguna akan dapat membina alatan untuk diri sendiri dan juga ejen AI mereka. GenUI sudah tiba 👀 Contoh - papan pemuka OKRs berdasarkan data Notion.",
+    "fb_status": "Posted",
+    "date_posted": "2026-04-24 16:43:16"
   }
 ]
